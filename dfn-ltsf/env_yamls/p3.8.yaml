@@ -1,0 +1,30 @@
+name: p3.8
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.8.19
+  - pip
+  - numpy
+  - pytorch=2.3.1
+  - torchvision=0.18.1
+  - torchaudio=2.3.1
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - pillow
+  - pandas
+  - tqdm
+  - jupyter
+  - pyyaml
+  - ffmpeg
+  - pip:
+    - anyio
+    - matplotlib
+    - tqdm
+    - trimesh
+    - shap
+    - scikit-image
+    - pywavelets
+prefix: /home/bosung/anaconda3/envs/p3.8

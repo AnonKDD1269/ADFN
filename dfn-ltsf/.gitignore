@@ -1,0 +1,49 @@
+# Python cache files
+__pycache__/
+results/
+results_apprx/
+dataset/
+*.pth
+checkpoints/
+# Bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+*.dist-info/
+*.build/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Python test results
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.log
+*.diff
+*.orig
+
+# IDE/editor-specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Files to ignore
+*.png
+*.csv
+*.pdf
+*.txt

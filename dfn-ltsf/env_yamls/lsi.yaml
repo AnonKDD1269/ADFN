@@ -1,0 +1,4 @@
+name: lsi
+channels:
+  - defaults
+prefix: /home/bosung/anaconda3/envs/lsi
