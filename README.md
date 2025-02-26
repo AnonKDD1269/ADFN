@@ -24,4 +24,42 @@ Repository and code being refactored and rewritten, current repository contains 
 - [Experiments](#experiments)
 
 
-## Features
+## Experiments
+
+This repository includes three distinct experiments to demonstrate the versatility and effectiveness of ADFN:
+
+- **Toy Example:**  
+  Located in the `adfn` folder, this experiment provides a simple, illustrative implementation of ADFN. It serves as an entry point for understanding the core concepts and functionality of the framework.
+
+- **Long-term Time Series Forecasting (LTSF):**  
+  Found in the `adfn-ltsf` folder, this experiment applies ADFN to a linear-based neural network model designed for LTSF. It showcases the framework’s capability to maintain performance in forecasting tasks while offering interpretability.
+
+- **Transformers (ADFN-Grok):**  
+  The `adfn-grok` folder contains experiments with attention-based Transformer models. This setup demonstrates the use of ADFN in decomposing and interpreting complex Transformer architectures, particularly in tasks like modular addition.
+
+---
+
+## Repository Structure
+
+- **`adfn/`**: Contains the toy example implementation.
+- **`adfn-ltsf/`**: Contains the implementation for Long-term Time Series Forecasting.
+- **`adfn-grok/`**: Contains the implementation for Transformer-based experiments.
+
+---
+
+## Getting Started
+
+To get started with ADFN, clone the repository first,
+enter the corresponding folder;
+
+```
+#case 1 : ADFN (toy)
+```
+
+```
+#case 2 : ADFN - LTSF
+```
+
+```
+#case 3 : ADFN - Grok 
+```
