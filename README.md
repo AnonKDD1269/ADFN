@@ -1,12 +1,10 @@
-# Code Implementation for ADFN : Automatic Differential Functional Network 
-# [Submitted] for KDD 2025
+# Code Implementation for [KDD2025 Submitted] ADFN : Automatic Differential Functional Network 
 
-# Repository and code being refactored and rewritten
-
-
-# Automatic Differentiable Functional Networks (ADFN)
 
 ADFN is a framework designed to transform black-box neural network models into transparent, white-box representations without compromising performance. This repository contains the implementation of the method described in the paper "Automatic Differentiable Functional Networks (ADFN)," which is currently under review at KDD 2025.
+
+Repository and code being refactored and rewritten
+
 
 ---
 
