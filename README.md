@@ -1,5 +1,5 @@
 # ADFN : Automatic Differential Functional Network 
-## [KDD2025 Submitted] 
+## [KDD2025 Submitted, Under Review.] 
 Code Implementation.
 
 
