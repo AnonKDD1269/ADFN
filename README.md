@@ -57,14 +57,3 @@ This repository includes three distinct experiments to demonstrate the versatili
 /To get started with ADFN, clone the repository first,
 /enter the corresponding folder;
 
-/```
-/#case 1 : ADFN (toy)
-/```
-
-/```
-/#case 2 : ADFN - LTSF
-/```
-
-/```
-/#case 3 : ADFN - Grok 
-/```
