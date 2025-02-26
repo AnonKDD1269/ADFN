@@ -1,0 +1,12 @@
+result_csv/
+result_img/
+result_misc/
+result_model/
+result_output/
+viz_logs/
+__pycache__/
+data/
+misc/
+*.pth
+*.csv
+ltsf_data/
