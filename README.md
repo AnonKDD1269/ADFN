@@ -3,7 +3,7 @@
 
 ADFN is a framework designed to transform black-box neural network models into transparent, white-box representations without compromising performance. This repository contains the implementation of the method described in the paper "Automatic Differentiable Functional Networks (ADFN)," which is currently under review at KDD 2025.
 
-Repository and code being refactored and rewritten
+Repository and code being refactored and rewritten, current repository contains all the scripts for experiments.
 
 
 ---
