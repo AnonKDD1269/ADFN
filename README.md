@@ -31,11 +31,16 @@ This repository includes three distinct experiments to demonstrate the versatili
 - **Toy Example:**  
   Located in the `adfn` folder, this experiment provides a simple, illustrative implementation of ADFN. It serves as an entry point for understanding the core concepts and functionality of the framework.
 
+  ![mixed_functions (1)-1](https://github.com/user-attachments/assets/01f0fd52-f1e4-452e-b920-631f59f078c2)
+
+
 - **Long-term Time Series Forecasting (LTSF):**  
   Found in the `adfn-ltsf` folder, this experiment applies ADFN to a linear-based neural network model designed for LTSF. It showcases the framework’s capability to maintain performance in forecasting tasks while offering interpretability.
+![ETTh1_Electricity_pushed_ex-1](https://github.com/user-attachments/assets/db7fb0ff-3603-4ab7-806d-e1f1d5d57d73)
 
 - **Transformers (ADFN-Grok):**  
   The `adfn-grok` folder contains experiments with attention-based Transformer models. This setup demonstrates the use of ADFN in decomposing and interpreting complex Transformer architectures, particularly in tasks like modular addition.
+![grok_loss_plots-1](https://github.com/user-attachments/assets/a5783854-887d-4b2a-9374-4f522e54b7d6)
 
 ---
 
@@ -47,19 +52,19 @@ This repository includes three distinct experiments to demonstrate the versatili
 
 ---
 
-## Getting Started
+/## Getting Started
 
-To get started with ADFN, clone the repository first,
-enter the corresponding folder;
+/To get started with ADFN, clone the repository first,
+/enter the corresponding folder;
 
-```
-#case 1 : ADFN (toy)
-```
+/```
+/#case 1 : ADFN (toy)
+/```
 
-```
-#case 2 : ADFN - LTSF
-```
+/```
+/#case 2 : ADFN - LTSF
+/```
 
-```
-#case 3 : ADFN - Grok 
-```
+/```
+/#case 3 : ADFN - Grok 
+/```
