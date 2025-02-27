@@ -57,6 +57,3 @@ This repository includes three distinct experiments to demonstrate the versatili
 To get started with ADFN, clone the repository first,
 enter the corresponding folder.
 Follow the inner Readme.md files to test.
-
-**test scripts being updated currently**
-
